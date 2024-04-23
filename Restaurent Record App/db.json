@@ -31,6 +31,22 @@
       "email": "GranSheretonInfo@gmail.com",
       "services": "contenental",
       "mobile": 797989896767
+    },
+    {
+      "id": "6",
+      "name": "Condrad",
+      "address": "Koregaon park",
+      "email": "condrad@gmail.com",
+      "services": "Primium dishes",
+      "mobile": 797989896767
+    },
+    {
+      "id": "7",
+      "name": "Huricane",
+      "address": "Magarpatta-IT park",
+      "email": "Huricaneofficial@gmail.com",
+      "services": "JunRutkdeore",
+      "mobile": 628858686658
     }
   ],
   "signup": [
